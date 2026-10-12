@@ -118,5 +118,5 @@ Kulüp operasyonlarının çözülmesi gereken temel meselesi mutabakat (consens
 ---
 
 ## 10. Takım
-- **Full-Stack & Veri Mühendisi:** Bot durum yönetimi, Google Sheets API entegrasyonu, veri mimarisi ve hata toleransı.
-- **Veri Analisti & UI/UX Geliştirici:** Streamlit analitik paneli tasarımı, Plotly görselleştirmeleri, akıllı takım eşleştirici ve kullanıcı deneyimi.
+- **Geliştirici & Takım Lideri:** Tolga Akgül ([@tolgastudent8-maker](https://github.com/tolgastudent8-maker)) - Full-Stack & Veri Mühendisliği, Streamlit Dashboard & Telegram Bot Entegrasyonu
+
