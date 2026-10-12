@@ -1,0 +1,42 @@
+# Çevre Değişkenleri ve Gizli Anahtarlar (Asla public repoya atılmaz)
+.env
+credentials.json
+service_account.json
+*.key
+*.pem
+
+# Python Önbellek Dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE ve İşletim Sistemi Dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Streamlit Çalışma Dosyaları (İsteğe bağlı)
+.streamlit/secrets.toml
